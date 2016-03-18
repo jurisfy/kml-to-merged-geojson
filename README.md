@@ -5,15 +5,11 @@ then simplify the geojson to reduce the number of points.
 
 ## Preparation
 
-If you haven't, run the following command via terminal from this folder:
-
 ```shell
 ./census2geojson-setup.sh
 ```
 
 ## Converting Folders
-
-From this folder, run the following:
 
 ```shell
 ./census2geojson.sh [folder-name] [tolerance]
