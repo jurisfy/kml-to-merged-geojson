@@ -33,4 +33,4 @@ You can set a tolerance by doing the following:
 A higher value reduces the number of points on the polygon, but may invalidate
 the polygon, too.
 
-Validity of a polygon can be check at http://geojsonlint.com/
+Validity of a polygon can be checked at http://geojsonlint.com/
